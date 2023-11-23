@@ -7,7 +7,7 @@ Machine learning, Artificial Intelligence, and Cyber Security.
 
 
 * 🌍  I'm currently based in China
-* ✉️  You can contact me at [vaskarchakma.edu@gmail.com](mailto:vaskarchakma.edu@gmail.com)
+* ✉️  You can contact me at [vaskarchakma@stmail.ntu.edu.cn](mailto:vaskarchakma@stmail.ntu.edu.cn)
 * 🧠  I'm learning Python (Django)
 * 🤝  I'm open to collaborating on Projects
 
